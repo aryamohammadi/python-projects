@@ -10,9 +10,9 @@ Each project is self-contained, demonstrates a key concept or feature of Python,
 
 | Project | Description |
 |---------|-------------|
-| [Tip Calculator](tip_calculator/tip_calculator.py) | Calculates how much each person should pay when splitting a bill, including tip. Demonstrates input handling and floating-point arithmetic. |
-| [Pizza Order CLI](python_pizza/python_pizza.py) | A text-based pizza order system using nested conditionals and user input. |
-| [Treasure Island Game](treasure_island_project/treasure_island_project.py) | A simple interactive adventure game built with control flow and string logic. Focuses on user decision-making and program branching. |
+| [Tip Calculator](tip_calculator/main.py) | Calculates how much each person should pay when splitting a bill, including tip. Demonstrates input handling and floating-point arithmetic. |
+| [Pizza Order CLI](python_pizza/main.py) | A text-based pizza order system using nested conditionals and user input. |
+| [Treasure Island Game](treasure_island_project/main.py) | A simple interactive adventure game built with control flow and string logic. Focuses on user decision-making and program branching. |
 
 ---
 
@@ -33,4 +33,4 @@ Each project is self-contained, demonstrates a key concept or feature of Python,
 To run a project:
 
 ```bash
-python3 <filename>.py
+python3 main.py
