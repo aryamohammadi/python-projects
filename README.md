@@ -69,7 +69,7 @@ Each project is self-contained, demonstrates a key concept or feature of Python,
 
 ## How to Run
 
-To run a project:
+Navigate to a project folder and run:
 
 ```bash
 python3 main.py
